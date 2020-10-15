@@ -4,7 +4,7 @@
 <a href="mailto:a.salah.b@gmail.com">
 <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
 </a>
-<a href="linkedin.com/in/ahmedsalahbasha">
+<a href="https://linkedin.com/in/ahmedsalahbasha">
 <img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Gmail">
 </a>
 <hr/>
