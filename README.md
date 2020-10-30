@@ -92,7 +92,7 @@ Here are some of the top projects I've done categorized into three sectors:
 
 #### Data Science:
 
-<div>
+<p float="left">
     <a href="https://github.com/AhmedSalahBasha/schema-matching">
         <img style="margin:20px" src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedSalahBasha&repo=schema-matching&theme=vue" onerror="this.style.display='none'" />
     </a>
@@ -107,11 +107,12 @@ Here are some of the top projects I've done categorized into three sectors:
         <img style="margin:20px" src="https://github-readme-stats.vercel.app/api/pin/?username=francisjo&repo=AutomaticFeartureEngineering
 &theme=vue" onerror="this.style.display='none'" />
     </a>
-</div>
+</p>
+
 
 #### Software Engineering:
 
-<div>
+<p float="left">
     <a href="https://github.com/AhmedSalahBasha/fog_computing">
         <img style="margin:20px" src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedSalahBasha&repo=fog_computing&theme=vue" onerror="this.style.display='none'" />
     </a>
@@ -126,11 +127,11 @@ Here are some of the top projects I've done categorized into three sectors:
         <img style="margin:20px" src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedSalahBasha&repo=pizza-restful-api
 &theme=vue" onerror="this.style.display='none'" />
     </a>
-</div>
+</p>
 
 #### Web Development:
 
-<div>
+<p float="left">
     <a href="https://github.com/AhmedSalahBasha/rbb-quiz">
         <img style="margin:20px" src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedSalahBasha&repo=rbb-quiz&theme=vue" onerror="this.style.display='none'" />
     </a>
@@ -145,4 +146,4 @@ Here are some of the top projects I've done categorized into three sectors:
         <img style="margin:20px" src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedSalahBasha&repo=ExpertChat-App
 &theme=vue" onerror="this.style.display='none'" />
     </a>
-</div>
+</p>
