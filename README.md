@@ -37,16 +37,6 @@ I'm fresh graduate from Master's of Computer Science with Major Data Science & A
 
 I'm working with most of the following technologies and languages from time to time. Recently, on the daily-basis with data science stack: <br>
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-k534{background-color:#dae8fc;border-color:#ffffff;color:#343434;font-size:14px;font-weight:bold;text-align:left;
-  vertical-align:top}
-.tg .tg-008z{background-color:#dae8fc;border-color:#ffffff;color:#343434;text-align:left;vertical-align:top}
-</style>
 <table class="tg">
 <thead>
   <tr>
