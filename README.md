@@ -30,7 +30,7 @@ I'm fresh graduate from Master's of Computer Science with Major Data Science & A
 
 <img src="https://github-readme-stats.vercel.app/api?username=AhmedSalahBasha&show_icons=true&theme=vue" alt="Ahmed's github stats">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedSalahBasha&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedSalahBasha&layout=compact&theme=vue" style="padding: 15px" />
 
 <hr/>
 
@@ -94,18 +94,18 @@ Here are some of the top projects I've done categorized into three sectors:
 
 <p float="left">
     <a href="https://github.com/AhmedSalahBasha/schema-matching">
-        <img style="margin:20px" src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedSalahBasha&repo=schema-matching&theme=vue" onerror="this.style.display='none'" />
+        <img style="margin:20px" src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedSalahBasha&repo=schema-matching&theme=vue" onerror="this.style.display='none'" style="padding: 15px" />
     </a>
     <a href="https://github.com/AhmedSalahBasha/data-cleaning">
         <img style="margin:20px" src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedSalahBasha&repo=data-cleaning
-&theme=vue" onerror="this.style.display='none'" />
+&theme=vue" onerror="this.style.display='none'" style="padding: 15px" />
     </a>
     <a href="https://github.com/AhmedSalahBasha/bi-classification">
-        <img style="margin:20px" src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedSalahBasha&repo=bi-classification&theme=vue" onerror="this.style.display='none'" />
+        <img style="margin:20px" src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedSalahBasha&repo=bi-classification&theme=vue" onerror="this.style.display='none'" style="padding: 15px" />
     </a>
     <a href="https://github.com/francisjo/AutomaticFeartureEngineering">
         <img style="margin:20px" src="https://github-readme-stats.vercel.app/api/pin/?username=francisjo&repo=AutomaticFeartureEngineering
-&theme=vue" onerror="this.style.display='none'" />
+&theme=vue" onerror="this.style.display='none'" style="padding: 15px" />
     </a>
 </p>
 
@@ -114,18 +114,18 @@ Here are some of the top projects I've done categorized into three sectors:
 
 <p float="left">
     <a href="https://github.com/AhmedSalahBasha/fog_computing">
-        <img style="margin:20px" src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedSalahBasha&repo=fog_computing&theme=vue" onerror="this.style.display='none'" />
+        <img style="margin:20px" src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedSalahBasha&repo=fog_computing&theme=vue" onerror="this.style.display='none'" style="padding: 15px" />
     </a>
     <a href="https://github.com/AhmedSalahBasha/master-slave-task">
         <img style="margin:20px" src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedSalahBasha&repo=master-slave-task
-&theme=vue" onerror="this.style.display='none'" />
+&theme=vue" onerror="this.style.display='none'" style="padding: 15px" />
     </a>
     <a href="https://github.com/AhmedSalahBasha/atm-task">
-        <img style="margin:20px" src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedSalahBasha&repo=atm-task&theme=vue" onerror="this.style.display='none'" />
+        <img style="margin:20px" src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedSalahBasha&repo=atm-task&theme=vue" onerror="this.style.display='none'" style="padding: 15px" />
     </a>
     <a href="https://github.com/AhmedSalahBasha/pizza-restful-api">
         <img style="margin:20px" src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedSalahBasha&repo=pizza-restful-api
-&theme=vue" onerror="this.style.display='none'" />
+&theme=vue" onerror="this.style.display='none'" style="padding: 15px" />
     </a>
 </p>
 
@@ -133,17 +133,17 @@ Here are some of the top projects I've done categorized into three sectors:
 
 <p float="left">
     <a href="https://github.com/AhmedSalahBasha/rbb-quiz">
-        <img style="margin:20px" src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedSalahBasha&repo=rbb-quiz&theme=vue" onerror="this.style.display='none'" />
+        <img style="margin:20px" src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedSalahBasha&repo=rbb-quiz&theme=vue" onerror="this.style.display='none'" style="padding: 15px" />
     </a>
     <a href="https://github.com/AhmedSalahBasha/ecommerce-nodejs">
         <img style="margin:20px" src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedSalahBasha&repo=ecommerce-nodejs
-&theme=vue" onerror="this.style.display='none'" />
+&theme=vue" onerror="this.style.display='none'" style="padding: 15px" />
     </a>
     <a href="https://github.com/AhmedSalahBasha/ahmedsalah-blog">
-        <img style="margin:20px" src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedSalahBasha&repo=ahmedsalah-blog&theme=vue" onerror="this.style.display='none'" />
+        <img style="margin:20px" src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedSalahBasha&repo=ahmedsalah-blog&theme=vue" onerror="this.style.display='none'" style="padding: 15px" />
     </a>
     <a href="https://github.com/AhmedSalahBasha/ExpertChat-App">
         <img style="margin:20px" src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedSalahBasha&repo=ExpertChat-App
-&theme=vue" onerror="this.style.display='none'" />
+&theme=vue" onerror="this.style.display='none'" style="padding: 15px" />
     </a>
 </p>
