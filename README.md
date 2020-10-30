@@ -30,8 +30,7 @@ I'm fresh graduate from Master's of Computer Science with Major Data Science & A
 
 <img src="https://github-readme-stats.vercel.app/api?username=AhmedSalahBasha&show_icons=true&theme=vue" alt="Ahmed's github stats">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedSalahBasha&layout=compact&theme=vue" style="padding: 15px" />
-</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedSalahBasha)](https://github.com/anuraghazra/github-readme-stats)
 
 <hr/>
 
@@ -40,12 +39,12 @@ I'm working with most of the following technologies and languages from time to t
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-k534">Langs</th>
-    <th class="tg-k534">DS</th>
-    <th class="tg-k534">Web</th>
-    <th class="tg-k534">DB</th>
-    <th class="tg-k534">Tools</th>
-    <th class="tg-k534">Others</th>
+    <th class="tg-k534"><b>Langs</b></th>
+    <th class="tg-k534"><b>DS</b></th>
+    <th class="tg-k534"><b>Web</b></th>
+    <th class="tg-k534"><b>DB</b></th>
+    <th class="tg-k534"><b>Tools</b></th>
+    <th class="tg-k534"><b>Others</b></th>
   </tr>
 </thead>
 <tbody>
@@ -72,7 +71,7 @@ I'm working with most of the following technologies and languages from time to t
     <td class="tg-008z"><img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white&style=for-the-badge"/></td>
     <td class="tg-008z"><img src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
 </td>
-    <td class="tg-008z"><img src="https://img.shields.io/badge/Microsoft%20Excel-217346?logo=microsoft-excel&logoColor=white&style=for-the-badge" /></td>
+    <td class="tg-008z"></td>
   </tr>
   <tr>
     <td class="tg-008z">	<img src="https://img.shields.io/badge/r-%23276DC3.svg?&style=for-the-badge&logo=r&logoColor=white"/></td>
@@ -80,7 +79,7 @@ I'm working with most of the following technologies and languages from time to t
 <img src="https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white" /></td>
     <td class="tg-008z"><img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" /></td>
     <td class="tg-008z"></td>
-    <td class="tg-008z"></td>
+    <td class="tg-008z"><img src="https://img.shields.io/badge/Microsoft%20Excel-217346?logo=microsoft-excel&logoColor=white&style=for-the-badge" /></td>
     <td class="tg-008z"></td>
   </tr>
 </tbody>
