@@ -99,7 +99,6 @@ Here are some of the top projects I've done categorized into three sectors:
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=francisjo&repo=AutomaticFeartureEngineering)](https://github.com/francisjo/AutomaticFeartureEngineering)
 
 </p>
-<br><br>
 
 #### Software Engineering:
 
@@ -109,7 +108,6 @@ Here are some of the top projects I've done categorized into three sectors:
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AhmedSalahBasha&repo=atm-task)](https://github.com/AhmedSalahBasha/atm-task)
 </p>
-<br><br>
 
 #### Web Development:
 
@@ -120,4 +118,3 @@ Here are some of the top projects I've done categorized into three sectors:
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AhmedSalahBasha&repo=ecommerce-nodejs)](https://github.com/AhmedSalahBasha/ecommerce-nodejs)
 
 </p>
-<br><br>
