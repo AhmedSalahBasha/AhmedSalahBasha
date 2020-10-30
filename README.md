@@ -93,67 +93,31 @@ Here are some of the top projects I've done categorized into three sectors:
 #### Data Science:
 
 <p float="left">
-    <a href="https://github.com/AhmedSalahBasha/schema-matching">
-        <img style="margin:20px" src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedSalahBasha&repo=schema-matching&theme=vue" onerror="this.style.display='none'" style="padding: 15px" />
-    </a>
-    <!--
-    <a href="https://github.com/AhmedSalahBasha/data-cleaning">
-        <img style="margin:20px" src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedSalahBasha&repo=data-cleaning
-&theme=vue" onerror="this.style.display='none'" style="padding: 15px" />
-    </a>
-    <a href="https://github.com/AhmedSalahBasha/bi-classification">
-        <img style="margin:20px" src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedSalahBasha&repo=bi-classification&theme=vue" onerror="this.style.display='none'" style="padding: 15px" />
-    </a>
-    -->
-    <a href="https://github.com/francisjo/AutomaticFeartureEngineering">
-        <img style="margin:20px" src="https://github-readme-stats.vercel.app/api/pin/?username=francisjo&repo=AutomaticFeartureEngineering
-&theme=vue" onerror="this.style.display='none'" style="padding: 15px" />
-    </a>
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AhmedSalahBasha&repo=schema-matching)](https://github.com/AhmedSalahBasha/schema-matching)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=francisjo&repo=AutomaticFeartureEngineering)](https://github.com/francisjo/AutomaticFeartureEngineering)
+
 </p>
 <br><br>
 
 #### Software Engineering:
 
 <p float="left">
-    <!-- 
-    <a href="https://github.com/AhmedSalahBasha/fog_computing">
-        <img style="margin:20px" src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedSalahBasha&repo=fog_computing&theme=vue" onerror="this.style.display='none'" style="padding: 15px" />
-    </a>
-    -->
-    <a href="https://github.com/AhmedSalahBasha/master-slave-task">
-        <img style="margin:20px" src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedSalahBasha&repo=master-slave-task
-&theme=vue" onerror="this.style.display='none'" style="padding: 15px" />
-    </a>
-    <a href="https://github.com/AhmedSalahBasha/atm-task">
-        <img style="margin:20px" src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedSalahBasha&repo=atm-task&theme=vue" onerror="this.style.display='none'" style="padding: 15px" />
-    </a>
-    <!-- 
-    <a href="https://github.com/AhmedSalahBasha/pizza-restful-api">
-        <img style="margin:20px" src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedSalahBasha&repo=pizza-restful-api
-&theme=vue" onerror="this.style.display='none'" style="padding: 15px" />
-    </a>
-    -->
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AhmedSalahBasha&repo=master-slave-task)](https://github.com/AhmedSalahBasha/master-slave-task)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AhmedSalahBasha&repo=atm-task)](https://github.com/AhmedSalahBasha/atm-task)
 </p>
 <br><br>
 
 #### Web Development:
 
 <p float="left">
-    <a href="https://github.com/AhmedSalahBasha/rbb-quiz">
-        <img style="margin:20px" src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedSalahBasha&repo=rbb-quiz&theme=vue" onerror="this.style.display='none'" style="padding: 15px" />
-    </a>
-    <a href="https://github.com/AhmedSalahBasha/ecommerce-nodejs">
-        <img style="margin:20px" src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedSalahBasha&repo=ecommerce-nodejs
-&theme=vue" onerror="this.style.display='none'" style="padding: 15px" />
-    </a>
-    <!-- 
-    <a href="https://github.com/AhmedSalahBasha/ahmedsalah-blog">
-        <img style="margin:20px" src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedSalahBasha&repo=ahmedsalah-blog&theme=vue" onerror="this.style.display='none'" style="padding: 15px" />
-    </a>
-    <a href="https://github.com/AhmedSalahBasha/ExpertChat-App">
-        <img style="margin:20px" src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedSalahBasha&repo=ExpertChat-App
-&theme=vue" onerror="this.style.display='none'" style="padding: 15px" />
-    </a>
-    -->
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AhmedSalahBasha&repo=rbb-quiz)](https://github.com/AhmedSalahBasha/rbb-quiz)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AhmedSalahBasha&repo=ecommerce-nodejs)](https://github.com/AhmedSalahBasha/ecommerce-nodejs)
+
 </p>
 <br><br>
