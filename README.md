@@ -89,32 +89,20 @@ I'm working with most of the following technologies and languages from time to t
 
 ### Top Projects
 Here are some of the top projects I've done categorized into three sectors:
-
 #### Data Science:
 
-<p float="left">
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AhmedSalahBasha&repo=schema-matching)](https://github.com/AhmedSalahBasha/schema-matching)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=francisjo&repo=AutomaticFeartureEngineering)](https://github.com/francisjo/AutomaticFeartureEngineering)
-
-</p>
+Data Integration           |  Feature Engineering
+:-------------------------:|:-------------------------:
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AhmedSalahBasha&repo=schema-matching)](https://github.com/AhmedSalahBasha/schema-matching)  |  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=francisjo&repo=AutomaticFeartureEngineering)](https://github.com/francisjo/AutomaticFeartureEngineering)
 
 #### Software Engineering:
 
-<p float="left">
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AhmedSalahBasha&repo=master-slave-task)](https://github.com/AhmedSalahBasha/master-slave-task)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AhmedSalahBasha&repo=atm-task)](https://github.com/AhmedSalahBasha/atm-task)
-</p>
+Distributed Systems        |  Concurrency Control
+:-------------------------:|:-------------------------:
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AhmedSalahBasha&repo=master-slave-task)](https://github.com/AhmedSalahBasha/master-slave-task)  |  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AhmedSalahBasha&repo=atm-task)](https://github.com/AhmedSalahBasha/atm-task)
 
 #### Web Development:
 
-<p float="left">
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AhmedSalahBasha&repo=rbb-quiz)](https://github.com/AhmedSalahBasha/rbb-quiz)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AhmedSalahBasha&repo=ecommerce-nodejs)](https://github.com/AhmedSalahBasha/ecommerce-nodejs)
-
-</p>
+TV Application             |  E-commerce Website
+:-------------------------:|:-------------------------:
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AhmedSalahBasha&repo=rbb-quiz)](https://github.com/AhmedSalahBasha/rbb-quiz)  |  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AhmedSalahBasha&repo=ecommerce-nodejs)](https://github.com/AhmedSalahBasha/ecommerce-nodejs)
