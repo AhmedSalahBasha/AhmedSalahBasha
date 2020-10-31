@@ -93,7 +93,7 @@ Here are some of the top projects I've done categorized into three sectors:
 
 Data Integration           |  Feature Engineering
 :-------------------------:|:-------------------------:
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AhmedSalahBasha&repo=schema-matching)](https://github.com/AhmedSalahBasha/schema-matching)  |  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=francisjo&repo=AutomaticFeartureEngineering)](https://github.com/francisjo/AutomaticFeartureEngineering)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AhmedSalahBasha&repo=schema-matching)](https://github.com/AhmedSalahBasha/schema-matching)  |  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=francisjo&repo=AutomaticFeatureEngineering)](https://github.com/francisjo/AutomaticFeatureEngineering)
 
 #### Software Engineering:
 
