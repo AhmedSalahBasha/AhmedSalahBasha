@@ -28,7 +28,7 @@ I'm fresh graduate from Master's of Computer Science with Major Data Science & A
 ### Profile Summary
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AhmedSalahBasha&show_icons=true&theme=vue" alt="Ahmed's github stats">
+<img src="https://github-readme-stats.vercel.app/api?username=AhmedSalahBasha&show_icons=true&theme=vue&include_all_commits=true&count_private=true" alt="Ahmed's github stats">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedSalahBasha&layout=compact&theme=vue" style="padding: 15px" />
 
