@@ -10,9 +10,6 @@
     <a href="https://linkedin.com/in/ahmedsalahbasha" style="text-decoration:None">
         <img alt="Ahmed | LinkedIn" width="40px" style="margin-right:20px" src="imgs/linkedin_logo.png" />
     </a>
-    <a href="https://www.hackerrank.com/a_salah_b" style="text-decoration:None">
-        <img alt="Ahmed | HackerRank" width="40px" style="margin-right:20px" src="imgs/hackerrank_logo.svg" />
-    </a>
 </div>
 <br>
 <hr/>
@@ -22,7 +19,7 @@
 ### Intro
 I'm a hard-working independent master student, data science enthusiast, dedicated to learn new skills
 and to enhance my knowledge. I'm always looking for new challenges and keeping away from comfortzone. My passion is to inspect the harmonic mix between programming and statistics. <br> 
-I'm fresh graduate from Master's of Computer Science with Major Data Science & Analytics. Currently working @ <a href="https://chatterbug.com/"><img src="https://chatterbug.netlify.app/assets/images/press/catbee-logo-press.png" alt="Chatterbug" width=70>
+I'm fresh graduate from Technical University of Berlin with Master's of Computer Science with Major Data Science & Analytics. Currently working @ <a href="https://chatterbug.com/"><img src="https://chatterbug.netlify.app/assets/images/press/catbee-logo-press.png" alt="Chatterbug" width=70>
 </a> as a Data Science (working student). <br>
 
 ### Profile Summary
