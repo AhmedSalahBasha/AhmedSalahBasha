@@ -36,10 +36,10 @@ I'm working with most of the following technologies and languages from time to t
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-k534"><b>Langs</b></th>
-    <th class="tg-k534"><b>DS</b></th>
-    <th class="tg-k534"><b>Web</b></th>
-    <th class="tg-k534"><b>DB</b></th>
+    <th class="tg-k534"><b>Languages</b></th>
+    <th class="tg-k534"><b>DataSience</b></th>
+    <th class="tg-k534"><b>WebDevelopment</b></th>
+    <th class="tg-k534"><b>Database</b></th>
     <th class="tg-k534"><b>Tools</b></th>
     <th class="tg-k534"><b>Others</b></th>
   </tr>
