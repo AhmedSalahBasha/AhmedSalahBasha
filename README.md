@@ -17,10 +17,9 @@
 ![](https://komarev.com/ghpvc/?username=AhmedSalahBasha&label=PROFILE+VIEWS)
 
 ### Intro
-I'm a hard-working independent master student, data science enthusiast, dedicated to learn new skills
-and to enhance my knowledge. I'm always looking for new challenges and keeping away from comfortzone. My passion is to inspect the harmonic mix between programming and statistics. <br> 
-I'm fresh graduate from Technical University of Berlin with Master's of Computer Science with Major Data Science & Analytics. Currently working @ <a href="https://chatterbug.com/"><img src="https://chatterbug.netlify.app/assets/images/press/catbee-logo-press.png" alt="Chatterbug" width=70>
-</a> as a Data Science (working student). <br>
+I'm a hard-worker, independent, data science enthusiast, dedicated to learn new skills and to enhance my knowledge. 
+I'm always looking for new challenges and keeping away from comfortzone. My passion is to inspect the harmonic mix between programming and statistics. <br> 
+I have master's of Computer Science with Major of Data Science & Analytics from Technical University of Berlin. Currently working as Data Science Consultant in Berlin.
 
 ### Profile Summary
 <p align="center">
